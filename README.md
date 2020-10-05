@@ -8,6 +8,8 @@ Repositorio para [Hackaton-NASA año 2020](https://www.spaceappschallenge.org/).
 
 # Logo - Equipo "Extintos"
 
+- Creado por [Carlos Mario González Herrera](https://arqcarlosmariogonzalezherrera.wordpress.com/)
+
 <center>
-<img src = ""/>
+<img src = "image/logo.jpg"/>
 </center>
